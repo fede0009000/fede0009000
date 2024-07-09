@@ -14,7 +14,6 @@ I'm still starting, but I've already got some experience with:
 
 
 [![My GitHub Stats](<https://github-readme-stats.vercel.app/api/top-langs/?username=fede0009000&theme=blue-green>)]()
-![](https://komarev.com/ghpvc/?username=fede0009000)
 
 <!--
 **fede0009000/fede0009000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
