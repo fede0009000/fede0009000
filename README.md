@@ -1,7 +1,7 @@
 ## Hi there,
 I'm Fedank and I enjoy coding on my own during my free time.
 
-I'm still starting, but I've already got some experience with these programming languages...
+I'm still starting, but I've already got some experience with these programming languages/frameworks...
 
 ![Shell Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
